@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mentoria-sql-app", "mentoria-sql-app.csproj", "{F1AD42F1-DD18-4FBB-B1F6-611C02F89A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AD42F1-DD18-4FBB-B1F6-611C02F89A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AD42F1-DD18-4FBB-B1F6-611C02F89A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AD42F1-DD18-4FBB-B1F6-611C02F89A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AD42F1-DD18-4FBB-B1F6-611C02F89A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55A4D01-E465-408B-BE39-082E72E33FAC}
+	EndGlobalSection
+EndGlobal
